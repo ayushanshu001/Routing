@@ -1,10 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-// import facebookImg from "../../public/assets/Facebook.png";
-// import twitterImg from "../../public/assets/twitter.png";
-// import instagramImg from "../../public/assets/instagram.png";
-// import pinterestImg from "../../public/assets/pinterest.png";
-// import youtubeImg from "../../public/assets/youtube.png";
 import { Link } from "react-router-dom";
 
 
@@ -16,7 +11,7 @@ const FooterStyle = styled.div`
   justify-content: space-between;
   padding: 20px 20px;
   margin-top: 1500px;
-  background-color: lightgoldenrodyellow;
+  background-color: white;
 `;
 
 const FooterPara = styled.p`

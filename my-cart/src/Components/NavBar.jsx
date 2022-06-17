@@ -28,7 +28,7 @@ const NavBar = () => {
             alignItems: "center"
           }}
         >
-          <div style={{ fontSize: "28px" ,color:"aqua"}}>BUY ANYTHING WITH US...............</div>
+          <div style={{ fontSize: "28px" ,color:"aqua"}}>BUY</div>
         </div>
 
         <div

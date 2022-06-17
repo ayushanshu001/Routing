@@ -7,7 +7,7 @@ const BannerStyle = styled.div`
   align-items: center;
   height: 40px;
   color: white;
-  background-color:teal
+  background-color:white
 `;
 
 const Banner = () => {
@@ -15,9 +15,8 @@ const Banner = () => {
     <div>
       <BannerStyle>
         <div>
-          <div style={{color:"orange" }}>Praveen's Shop</div>
+          <div style={{color:"orange" }}> Shop</div>
           <div style={{ fontSize: "12px" ,color:"red"}}>
-            Flat 50% off use coupon - MASAI (code: FW16-677)
           </div>
         </div>
       </BannerStyle>

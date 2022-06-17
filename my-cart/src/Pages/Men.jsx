@@ -29,7 +29,7 @@ const Men = () => {
             onClick={() => navigate(`/productsDetails/${item.id}`)}
           >
             <div>
-              <img style={{ width: "150px" }} src={item.img} alt="shirt" />
+              <img style={{ width: "50px" }} src={item.img} alt="shirt" />
             </div>
             <h3>{item.title}</h3>
             <p>{item.price}</p>
